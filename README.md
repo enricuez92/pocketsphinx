@@ -1,0 +1,2 @@
+# pocketsphinx
+da provare

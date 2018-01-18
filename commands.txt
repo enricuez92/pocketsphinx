@@ -1,0 +1,29 @@
+apri la musica/1e-70/
+chiama assistenza/1e-70/
+conversazione/1e-40/
+fratello/1e-10/
+mangiare/1e-10/
+grazie /1e-10/
+che giorno e/1e-20/
+che ore sono/1e-20/
+prossimo/1e-10/
+precedente/1e-10/
+aggiungi/1e-10/
+togli/1e-1/
+successivo/1e-10/
+ottimo/1e-3/
+prego/1e-3/
+okscala/1e-30/
+eiscala/1e-15/
+ok scala/1e-40/
+batteria/1e-10/
+attiva/1e-10/
+disattiva/1e-25/
+mostra consumi/1e-70/
+accendi/1e-10/
+spegni/1e-1.9/
+vai avanti/1e-40/
+vai indietro/1e-40/
+conferma/1e-30/
+manda email/1e-30/
+rifiuta/1e-20/

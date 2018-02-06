@@ -152,6 +152,12 @@ def decode_sphinx(kws, message, quitTimeS=-1):
                 audio = seg.word
 
     decoder.end_utt()
+    # stop stream (4)
+    stream.stop_stream()
+    stream.close()
+
+    # close PyAudio (5)
+    # p.terminate()
 
     return audio, media
 
